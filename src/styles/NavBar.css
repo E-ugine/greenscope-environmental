@@ -12,11 +12,11 @@ header{
 }
 
 .logo{
-    color: aqua;
+    color: green;
 }
 
 em{
-    color: green;
+    color: aqua;
 }
 nav ul {
     display: flex; 
