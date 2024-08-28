@@ -13,12 +13,11 @@ function NavBar(){
          <li>Home</li>
             <li>About</li>
             <li>Services</li>
-            <li>CONTACT US</li>
+            
          </ul>
         </nav>
         <div >
-        <button>Sign In</button>
-        <button>Sign Up</button>
+        <button>CONTACT US</button>
         </div>
     </header> 
     )

@@ -32,23 +32,23 @@
 }
 
 .footer-section ul li a {
-  color: white;
+  color: #333;
   text-decoration: none;
 }
 
 .footer-section .social-media-icons a {
   display: inline-block;
   margin-right: 10px;
-  color: white;
+  color: #333;
 }
 
 .footer-bottom {
   margin-top: 20px;
   font-size: 14px;
-  color:white;
+  color: #333;
 }
 
 .footer-bottom a {
-  color: white;
+  color: #333;
   text-decoration: none;
 }
